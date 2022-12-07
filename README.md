@@ -1,2 +1,2 @@
-# Algorithmic_Bias
-Algorithmic bias project
+Algorithmic Bias Simulator
+
