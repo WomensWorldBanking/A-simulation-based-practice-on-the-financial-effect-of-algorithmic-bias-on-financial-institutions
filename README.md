@@ -1,2 +1,0 @@
-Algorithmic Bias Simulator
-
